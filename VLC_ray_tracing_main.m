@@ -12,7 +12,7 @@ function [f_query,vlc_frequency_gain]=VLC_ray_tracing_main(Tx,Rx)
 
 tic
 
-VLC_system_settings
+VLC_system_setting
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
